@@ -16,3 +16,5 @@ numbers = [11, 22, 33, 42, 51]
 total, avg = calculate_sum_and_average(numbers)
 print(f'Сумма чисел: {total}')
 print(f'Среднее значение: {avg}')
+
+# минимальное изменение
